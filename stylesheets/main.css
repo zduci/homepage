@@ -4,3 +4,19 @@ h1 {
   font-size: 70px;
   text-align: center;
 }
+
+h2 { 
+  font-family: ‘Merriweather Sans’, Arial, serif; 
+  font-weight: 400; 
+  font-size: 50px;
+}
+
+.logo {
+  width: 100px;
+  vertical-align:middle;
+}
+
+.logo_with_link {
+  width: 400px;
+  margin:0 auto;
+}
