@@ -20,3 +20,8 @@ h2 {
   width: 400px;
   margin:0 auto;
 }
+
+.logo_with_link a{
+  color: inherit;
+  text-decoration: none;
+}
