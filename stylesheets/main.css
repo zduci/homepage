@@ -26,6 +26,10 @@ h2 {
   text-decoration: none;
 }
 
+.white{
+  color: white;
+}
+
 body {
     background-color: #6EB5E6;
     background-image: url("/images/background.png");
