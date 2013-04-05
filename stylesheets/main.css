@@ -35,3 +35,7 @@ body {
     background-image: url("/images/background.png");
     background-repeat: repeat-x;
 }
+
+.blue {
+  color: #6EB5E6;
+}
